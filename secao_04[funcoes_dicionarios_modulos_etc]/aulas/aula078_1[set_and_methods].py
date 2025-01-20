@@ -17,7 +17,7 @@ set_1.discard("Olá mundão") # não recebe index
 print(f"após discard: {set_1}")
 print(100 * "=")
 
-set_1.clear()
+set_1.clear() # remove tudo
 
 print(f"após clear: {set_1}")
 print(100 * "=")
