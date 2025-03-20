@@ -1,0 +1,5 @@
+python -m venv venv
+"para criar um ambiente virtul, o segundo venv é o nome do ambiente"
+
+.\venv\Scripts\Activate.ps1
+"para ativar o ambiente"
